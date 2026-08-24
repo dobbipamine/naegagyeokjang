@@ -1,1 +1,11 @@
-{"name":"내가격장","short_name":"내가격장","id":"./?app=naegagyeokjang","start_url":"./?app=naegagyeokjang&v=2.1","scope":"./","display":"standalone","background_color":"#f7f7f7","theme_color":"#ffffff","icons":[]}
+{
+  "name": "내가격장",
+  "short_name": "내가격장",
+  "id": "./?app=naegagyeokjang",
+  "start_url": "./?v=3.0",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#ffffff",
+  "icons": []
+}
