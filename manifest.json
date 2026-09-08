@@ -1,11 +1,9 @@
 {
   "name": "내가격장",
   "short_name": "내가격장",
-  "id": "./?app=naegagyeokjang",
-  "start_url": "./?v=3.0",
-  "scope": "./",
+  "start_url": "./?v=4.0",
   "display": "standalone",
-  "background_color": "#f7f7f7",
+  "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "icons": []
+  "lang": "ko"
 }
